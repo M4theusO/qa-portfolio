@@ -11,5 +11,6 @@ Este repositório contém documentação de QA criada durante estudos e desafios
 
 * Chrome DevTools
 * Loom
+* Cypress
 
 Técnicas de teste: regressão, limites, responsividade, exploratórios
